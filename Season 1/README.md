@@ -22,4 +22,4 @@ There are no *specific* file system, OS, hardware, display, or even language req
 5) Cross-drive support
 6) Setting permissions
 
-[Back to the Main README](/README.md)
+[Back to the top of the repository](/)
