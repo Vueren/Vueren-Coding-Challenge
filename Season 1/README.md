@@ -1,5 +1,3 @@
-===
-
 # Welcome to Vueren's Coding Challenge, Season 1!
 
 For this Season, we are going to be doing file handling shenanigans.
@@ -23,5 +21,3 @@ There are no *specific* file system, OS, hardware, display, or even language req
 4) Cross-platform support
 5) Cross-drive support
 6) Setting permissions
-
-===
